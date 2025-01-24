@@ -104,7 +104,8 @@
         border-radius: 10px;
         background: rgba(255, 255, 255, 0.95);
         position: relative;
-        z-index: 15;
+        z-index: 10000;
+        opacity: 1;
     }
 
     .home-container input:focus {
